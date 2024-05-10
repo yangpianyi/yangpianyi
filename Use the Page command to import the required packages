@@ -1,0 +1,9 @@
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <%-- Use the Page command to import the required packages --%>
+    <%@ page import="java.util.Date" %>
+    <title>JSP Page Example</title>
+</head>
+<body>
+<h1>Welcome to My Application!</h1>
+<!-- Static contains a common header -->
