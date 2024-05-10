@@ -1,0 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<!-- JSP Annotations -->
+<%-- This is a server-side comment and will not be visible to the client --%>
+<!DOCTYPE html>
+<html lang="en">
+<head>
