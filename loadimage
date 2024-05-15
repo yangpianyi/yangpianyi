@@ -1,0 +1,4 @@
+	loadimage(&i_MP, L"mp.jpg");
+	loadimage(&i_MPS, L"mpbit.jpg");
+	loadimage(&i_backeve, L"backeve.jpg");
+	loadimage(&i_backxing, L"backtaikong.jpg");
