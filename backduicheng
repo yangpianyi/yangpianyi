@@ -1,0 +1,4 @@
+	loadimage(&i_AP, L"AP.jpg", aw, ah);
+	loadimage(&i_APS, L"APS.jpg", aw, ah);
+	loadimage(&i_backduicheng, L"backduicheng.jpg");
+	loadimage(&i_backguan, L"backguan.jpg", WIDTH, WINDOW_HEIGHT);
