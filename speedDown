@@ -1,0 +1,20 @@
+		{
+			speedUp();
+			gotoxy(60, 13);
+			printf("当前分数:%d分,当前速度%d", score, speed);
+		}
+		else if (GetAsyncKeyState(VK_F2)) // 按F2键，减速
+		{
+			speedDown();
+			gotoxy(60, 13);
+			printf("当前分数:%d分,当前速度%d", score, speed);
+		}
+		snakeMove();
+	}
+}
+void speedUp(void)
+{
+	if (speed <= 280)
+		speed += 20;
+}
+void speedDown(void)
