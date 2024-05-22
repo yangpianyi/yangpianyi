@@ -1,0 +1,9 @@
+setLayout(new FlowLayout());
+        getContentPane().add(in);
+        getContentPane().add(btn);
+        getContentPane().add(out);
+        btn.addActionListener(new BtnActionAdapter());
+        setSize(400,100);
+        setDefaultCloseOperation(DISPOSE_ON_CLOSE);
+        setVisible(true);
+    }
