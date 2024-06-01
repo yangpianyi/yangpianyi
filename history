@@ -1,0 +1,7 @@
+U * createpeople(U *h);           //
+void History(struct history s[],int num); //
+void insert(U *h);            //
+U* search(U *h,char *name);  /
+void iregister(U *h);        /
+void log_in(U *h);               /
+void msort(history *
